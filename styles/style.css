@@ -1,5 +1,4 @@
 body {
-    
     margin: 0; 
     background-color: #1e1e1e;
     font-family: 'Inter', 'EB Garamond';
@@ -65,7 +64,6 @@ main {
 }
 
 .cover {
-
     background-image: url(../images/cover.svg);
     background-repeat: no-repeat;
     background-size: 95%;
@@ -111,7 +109,7 @@ span {
 
 }
 
-.intro__title{
+.intro__title {
     display: flex;
     padding-bottom: 24px;
     font-family: 'Inter';
