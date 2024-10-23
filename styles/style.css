@@ -17,7 +17,6 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     margin-right: auto;
     background: #000000;
     color: #F5F5F5;
-
 }
 
 
@@ -41,20 +40,17 @@ header {
     width: 100%;
     margin-top: -50px;
     padding: 24px 18.55px 24px 266.45px;
-
 } 
    
 .header__menu-list {
     list-style-type: none;
     font-family: 'Inter';
     line-height: 2em;
-
 }
 
 .header__menu-item {
     color: #F5F5F5;
     font-family: 'Inter';
-    
 }
 
 main {
@@ -70,7 +66,6 @@ main {
     background-position: right;
     padding-bottom: 30px;
     min-height: 221px;
-
 }
 
 
@@ -85,7 +80,6 @@ span {
     flex-direction: column;
     color:#FFFFFF;
     font-weight: lighter;
-
 }
 
 .accent-span {
@@ -99,14 +93,12 @@ span {
     font-size: 72px;
     padding-top: 6px;
     font-weight: lighter;
-
 }
 
 .text-right {
     text-align: right;
     font-size: 72px;
     padding-right: 20px;
-
 }
 
 .intro__title {
@@ -126,7 +118,6 @@ span {
     margin-right: 5px;
 }
 
-
 .intro__main-text {
     font-family: 'Inter';
     color:#F5F5F5;
@@ -136,7 +127,6 @@ span {
     font-size: 16px;
 }
 
-
 .content-section_theme_bright {
     box-sizing: content-box;
     width: 360px;
@@ -145,7 +135,6 @@ span {
     margin-right: auto;
     background: #FEE42A;
     color: #131313;
-
 }
 
 .content-section_theme_dark_how-to {
@@ -155,14 +144,12 @@ span {
     margin-right: auto;
     background: #000000;
     color: #F5F5F5;
-
 }
 
 .content-section__subtitle {
     font-family: 'EB Garamond';
     font-size: 28px;
     color: #131313;
-
 }
 
 .text-right__reason {
@@ -170,7 +157,6 @@ span {
     padding-left: 20px;
     padding-right: 20px;
     text-align: right;
-
 }
 
 .accent-span__reason {
@@ -206,7 +192,6 @@ span {
     font-size: 28px;
     color: #F5F5F5;
     font-weight: normal;
-
 }
 
 .text-right__how-to {
@@ -214,13 +199,11 @@ span {
     padding-left: 20px;
     padding-right: 20px;
     text-align: right;
-
 }
 
 .accent-span__how-to {
     padding-left: 20px;
     text-align: left;
-
 }
 
 .content-section__introduction_how-to {
@@ -230,7 +213,6 @@ span {
     padding-top: 32px;
     padding-left: 20px;
     padding-right: 20px;
-
 }
 
 
@@ -246,7 +228,6 @@ span {
     border-radius: 20px;
     background-color: #343434;
     padding-top: 20px;
-
 }
 
 .card__author-photo {
@@ -259,7 +240,6 @@ span {
     font-weight: bold;
     padding-left: 20px;
     padding-right: 136px;
-
 }
 
 .card__title {
@@ -279,7 +259,6 @@ span {
     padding-bottom: 20px;
     padding-left: 20px;
     line-height: 21.6 px;
-
 }
 
 
@@ -297,8 +276,6 @@ span {
     font-weight: normal;
     color: #131313;
     padding-bottom: 8px;
-
-
 }
 
 .card__text__text-only {
@@ -308,8 +285,6 @@ span {
     line-height: 21.6 px;
     font-weight: normal;
     padding-bottom: 20px;
-
-
 }
 
 .card_theme_dark_bunin {
@@ -330,7 +305,6 @@ span {
     margin-right: auto;
     background: #000000;
     color: #F5F5F5;
-
 }
 
 .footer {
@@ -347,8 +321,6 @@ span {
     padding-left: 20px;
     padding-top: 20px;
     padding-right: 150px;
-
-
 }
 
 .footer__links {
